@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @otaggart
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python and unity
+👋 Hi, I'm Oscar Taggart
 
-<!---
-otaggart/otaggart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a second-year BSc Computer Science student at the University of Exeter.
+
+💡 I’m especially interested in:
+- 🧠 Artificial Intelligence & Machine Learning
+- 🎮 Game Design & Development (Unity/C#)
+
+📚 I've worked with languages like Java, Python, C, Haskell, and Prolog. I'm currently working on coursework and side projects that explore machine learning models, backend development, and interactive game design.
+
+🔍 I'm looking for summer internship opportunities in software development, AI/ML, or game programming to gain hands-on experience and contribute to exciting projects.
+
+📫 Feel free to connect with me:
+- 📧 [taggartoscar@gmail.com](mailto:taggartoscar@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oscar-taggart-381b32192)
